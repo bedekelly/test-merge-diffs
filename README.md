@@ -1,6 +1,6 @@
 # test-merge-diffs
 
-First line - changed
+First line
 
 Second line
 
