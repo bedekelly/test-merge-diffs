@@ -2,5 +2,5 @@
 
 First line - changed
 
-Second line
+Second line - changed
 
