@@ -1,4 +1,4 @@
 # test-merge-diffs
-First change
-Second change
+First line
+Second line
 
